@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Apr 12, 2024 at 10:10 PM
+-- Generation Time: Apr 17, 2024 at 03:20 PM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.2.12
 
@@ -182,8 +182,12 @@ CREATE TABLE `contact` (
 INSERT INTO `contact` (`Sponsor`, `Panel_ID`, `Event_ID`) VALUES
 ('IFIC Bank Ltd.', 1001, 5003),
 ('IFIC Bank Ltd.', 1006, 5003),
+('IFIC Bank Ltd.', 1011, 5003),
+('IFIC Bank Ltd.', 1016, 5003),
 ('Janata Bank Ltd.', 1001, 5006),
-('Janata Bank Ltd.', 1006, 5006);
+('Janata Bank Ltd.', 1006, 5006),
+('Janata Bank Ltd.', 1011, 5006),
+('Janata Bank Ltd.', 1016, 5006);
 
 -- --------------------------------------------------------
 
